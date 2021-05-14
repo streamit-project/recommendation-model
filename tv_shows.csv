@@ -1,0 +1,245 @@
+,tv_show,genres,id
+0,Invincible,"[16, 10759, 18, 10765]",95557
+1,The Flash,"[18, 10765]",60735
+2,The Good Doctor,[18],71712
+3,The Handmaid's Tale,"[10765, 18]",69478
+4,Grey's Anatomy,[18],1416
+5,Lucifer,"[80, 10765]",63174
+6,Riverdale,"[9648, 18, 80]",69050
+7,Game of Thrones,"[10765, 18, 10759]",1399
+8,Van Helsing,"[9648, 10765, 10759]",65820
+9,Fear the Walking Dead,"[10759, 18]",62286
+10,The Walking Dead,"[10759, 18, 10765]",1402
+11,Jupiter's Legacy,"[10765, 10759, 18]",93484
+12,WandaVision,"[10765, 9648, 18]",85271
+13,The Vampire Diaries,"[18, 10765]",18165
+14,The Simpsons,"[10751, 16, 35]",456
+15,Cobra Kai,"[10759, 18]",77169
+16,Vikings,"[10759, 18]",44217
+17,Supernatural,"[18, 9648, 10765]",1622
+18,The Rookie,"[80, 18]",79744
+19,The Mandalorian,"[10765, 10759, 37, 18]",82856
+20,Breaking Bad,[18],1396
+21,Peaky Blinders,"[80, 18]",60574
+22,The Boys,"[10765, 10759]",76479
+23,House,"[18, 35, 9648]",1408
+24,Stranger Things,"[10765, 9648, 18]",66732
+25,Scorpion,"[10759, 18, 80]",60797
+26,Arrow,"[80, 18, 9648, 10759]",1412
+27,The Blacklist,"[18, 80, 9648]",46952
+28,The Big Bang Theory,[35],1418
+29,Money Heist,"[80, 18]",71446
+30,American Horror Story,"[18, 9648, 10765]",1413
+31,Rick and Morty,"[16, 35, 10765, 10759]",60625
+32,Batwoman,"[10765, 10759, 9648, 80]",89247
+33,DC's Legends of Tomorrow,"[10759, 18, 10765]",62643
+34,Are You Afraid of the Dark?,[9648],93693
+35,Friends,"[35, 18]",1668
+36,Hawaii Five-0,"[80, 18, 10759]",32798
+37,Malcolm in the Middle,"[10751, 35, 18]",2004
+38,Dragon Ball Super,"[16, 10759, 10765]",62715
+39,Two and a Half Men,"[35, 18]",2691
+40,Euphoria,[18],85552
+41,Dark,"[10765, 18, 9648, 80]",70523
+42,Doctor Who,"[10759, 18, 10765]",57243
+43,Futurama,"[35, 10765, 16]",615
+44,Fate: The Winx Saga,"[10765, 18]",97175
+45,The Office,[35],2316
+46,Doctor Who,"[10759, 18, 10765]",121
+47,This Is Us,"[35, 18]",67136
+48,Castlevania,"[10765, 16]",71024
+49,Castle,"[18, 80]",1419
+50,Outlander,"[18, 10765]",56570
+51,Buffy the Vampire Slayer,"[10765, 35, 18, 10759]",95
+52,One-Punch Man,"[10759, 16, 35]",63926
+53,BoJack Horseman,"[35, 18, 16]",61222
+54,Chernobyl,[18],87108
+55,Spartacus,[18],46296
+56,The Queen's Gambit,[18],87739
+57,Bridgerton,[18],91239
+58,Goblin,"[18, 10765]",67915
+59,iCarly,"[10751, 35, 18, 10762]",5371
+60,The Resident,[18],74016
+61,Dexter,"[80, 18, 9648]",1405
+62,Once Upon a Time,"[18, 10765]",39272
+63,New Girl,[35],1420
+64,His Dark Materials,"[10765, 18]",68507
+65,The Late Show with Stephen Colbert,"[35, 10767]",63770
+66,BEASTARS,"[16, 18]",90937
+67,Seinfeld,[35],1400
+68,Shameless,"[18, 35]",34307
+69,Steven Universe,"[16, 35, 10759, 10751, 10765]",61175
+70,iZombie,"[18, 80, 10765]",60866
+71,Bleach,"[10759, 16, 10765]",30984
+72,13 Reasons Why,"[9648, 18]",66788
+73,Sons of Anarchy,"[80, 18]",1409
+74,Frasier,[35],3452
+75,Star Trek: Voyager,"[10765, 18, 10759]",1855
+76,Westworld,"[37, 878]",63247
+77,Uzaki-chan Wants to Hang Out!,"[16, 35]",98986
+78,KonoSuba – God's blessing on this wonderful world!!,"[10759, 16, 35, 10765]",65844
+79,Psych,"[9648, 18, 35]",1447
+80,The Witcher,"[10765, 18, 10759]",71912
+81,The West Wing,[18],688
+82,Star Trek,"[10765, 18]",253
+83,Anne with an E,"[18, 10751]",70785
+84,Doom Patrol,"[10765, 35, 18]",79501
+85,Servant,[18],88055
+86,My Hero Academia,"[10765, 10759, 35, 16]",65930
+87,Redo of Healer,"[16, 10759, 10765]",99071
+88,Marvel's Daredevil,"[80, 18, 10759]",61889
+89,YOU,"[9648, 80, 18]",78191
+90,The Irregular at Magic High School,"[10759, 16, 10765]",60833
+91,Glee,"[35, 18]",1417
+92,Mr. Robot,"[80, 18]",62560
+93,"Magnum, P.I.","[18, 10759]",734
+94,The Man in the High Castle,"[10765, 18]",62017
+95,Blood of Zeus,"[16, 10759, 10765]",111111
+96,Person of Interest,"[18, 10759, 80, 10765]",1411
+97,Demon Slayer: Kimetsu no Yaiba,"[16, 10759, 10765]",85937
+98,Coronation Street,[10766],291
+99,Star Trek: Discovery,"[10765, 10759]",67198
+100,M*A*S*H,"[10768, 18, 35]",918
+101,Sherlock,"[80, 18, 9648]",19885
+102,Weeds,"[18, 35, 80]",186
+103,It,"[18, 9648, 10765]",19614
+104,Last Week Tonight with John Oliver,"[10767, 35, 10763]",60694
+105,The Good Wife,[18],1435
+106,Xena: Warrior Princess,"[18, 10759]",4616
+107,Ozark,"[80, 18]",69740
+108,The Gifted,"[10759, 18, 10765]",69629
+109,White Collar,"[80, 18]",21510
+110,Twin Peaks,"[18, 9648]",1920
+111,Gintama,"[10759, 16, 35, 10765]",57041
+112,Magnum P.I.,[10759],79593
+113,The End of the F***ing World,"[35, 18, 80]",74577
+114,Shadowhunters,"[10759, 18, 10765]",63210
+115,The Legend of Korra,"[10759, 16, 18, 10751, 10765]",33880
+116,The Last Kingdom,"[10759, 18]",63333
+117,G.I. Joe,"[16, 10759]",29200
+118,Trollhunters: Tales of Arcadia,"[10751, 16, 10759, 35, 10765]",68267
+119,Manifest,"[18, 9648]",79696
+120,The Fresh Prince of Bel-Air,"[35, 10751, 18]",1892
+121,Everybody Loves Raymond,[35],2140
+122,Cowboy Bebop,"[10759, 16, 80, 18, 10765]",30991
+123,House of Cards,[18],1425
+124,Wynonna Earp,"[10759, 10765, 37]",65988
+125,Start-Up,"[18, 35]",99048
+126,Superstore,[35],62649
+127,Battlestar Galactica,"[18, 10765]",1972
+128,Band of Brothers,"[18, 10768]",4613
+129,A Discovery of Witches,"[10765, 18]",77236
+130,Marvel's Spider-Man,"[16, 10765]",72705
+131,Marvel's Jessica Jones,"[10765, 18]",38472
+132,The Expanse,"[18, 9648, 10765]",63639
+133,Cheers,[35],141
+134,Akame ga Kill!,"[16, 18, 10759]",61223
+135,Monogatari,"[16, 35, 18]",46195
+136,Midsomer Murders,"[80, 18, 9648]",764
+137,Wizards: Tales of Arcadia,"[16, 10759, 35, 10765]",105797
+138,Re:ZERO -Starting Life in Another World-,"[16, 35, 18, 10765, 10759]",65942
+139,The Wire,"[80, 18]",1438
+140,Terminator: The Sarah Connor Chronicles,"[10765, 18, 10759]",433
+141,BAKI,"[16, 10759, 80, 18]",80623
+142,Altered Carbon,[10765],68421
+143,Banshee,"[80, 18]",41727
+144,Absentia,"[80, 18, 9648]",72755
+145,The Wild Wild West,"[35, 18, 37, 10759]",10929
+146,Deadly Class,"[18, 80, 10759]",75663
+147,Bosch,"[9648, 18, 80]",60585
+148,Defending Jacob,"[18, 9648, 80]",87784
+149,Final Space,"[16, 10759, 10765, 35]",74387
+150,Mindhunter,"[18, 80]",67744
+151,The Good Fight,[18],69158
+152,Ray Donovan,[18],1423
+153,Fresh Off the Boat,[35],61692
+154,Project Blue Book,"[10765, 9648]",79649
+155,Marvel's Luke Cage,"[18, 10765, 10759, 80]",62126
+156,"Love, Victor","[35, 18]",97186
+157,Quantico,"[80, 18, 9648]",62816
+158,Legion,"[10759, 10765]",67195
+159,Stargirl,"[10765, 10759, 18, 80]",80986
+160,AIBOU: Tokyo Detective Duo,"[18, 80, 9648]",40663
+161,Ballers,"[18, 35]",62704
+162,That Time I Got Reincarnated as a Slime,"[10759, 16, 10765, 35]",82684
+163,Warrior Nun,"[10759, 18, 10765]",87689
+164,All American,[18],82428
+165,Nikita,"[18, 10759]",32868
+166,Line of Duty,"[80, 18, 9648]",43982
+167,Navy Log,"[10768, 18]",13813
+168,Your Lie in April,"[16, 35, 18]",61663
+169,True Detective,[18],46648
+170,Are You Afraid of the Dark?,"[18, 9648, 10762]",2913
+171,American Crime Story,"[80, 18]",64513
+172,Watchmen,"[80, 18, 10759, 10765]",79788
+173,Rosewood,[18],63329
+174,Marvel's Cloak & Dagger,"[10759, 18, 10765]",66190
+175,Charlotte,"[16, 18, 10765]",63145
+176,All Elite Wrestling: Dynamite,[10764],91555
+177,Tom Clancy's Jack Ryan,"[10759, 18, 10768]",73375
+178,Wandering Witch: The Journey of Elaina,"[16, 10759, 10765]",94693
+179,Swamp Thing,"[9648, 10765, 18]",79240
+180,The Loud House,"[35, 10751, 10762]",68073
+181,The Leftovers,"[10765, 18]",54344
+182,Big Sky,"[80, 18, 9648]",100010
+183,Freaks and Geeks,"[35, 18]",2382
+184,Blue Exorcist,"[16, 35, 18, 10765, 9648]",38464
+185,Defiance,"[18, 10765]",51704
+186,Star Trek: Picard,"[10765, 10759]",85949
+187,"Murder, She Wrote","[9648, 80, 18]",484
+188,Tower of God,"[16, 9648, 10759, 10765]",97860
+189,The Dark Crystal: Age of Resistance,"[10765, 10759]",71809
+190,The Sinner,"[80, 18]",39852
+191,The Good Place,"[10765, 35]",66573
+192,Schitt's Creek,[35],61662
+193,The Orville,"[18, 35, 10765]",71738
+194,Agries Melisses,[18],94181
+195,The Haunting of Hill House,"[9648, 18]",72844
+196,"Ed, Edd n Eddy","[16, 35]",606
+197,Atypical,"[18, 35]",71578
+198,3Below: Tales of Arcadia,"[16, 10751, 35, 10765]",84154
+199,The Alienist,"[18, 80, 9648]",71769
+200,Given,"[16, 18]",88040
+201,StartUp,"[80, 18]",66310
+202,Falling Skies,"[10759, 10765]",34967
+203,Roswell,"[10765, 18]",4624
+204,Bodyguard,"[10768, 80, 18]",80307
+205,The Exorcist,"[9648, 18]",67135
+206,The OA,"[10765, 9648, 18]",69061
+207,Marvel's The Defenders,"[10765, 10759, 80]",62285
+208,Green Acres,[35],609
+209,The Mist,"[18, 10765]",68315
+210,A Million Little Things,[18],81499
+211,The Librarians,[10759],61599
+212,Hanna,"[10759, 18]",54155
+213,What We Do in the Shadows,[35],83631
+214,Tales from the Crypt,"[35, 9648, 80, 10765]",2391
+215,Preacher,"[10765, 9648, 18]",64230
+216,Unbreakable Kimmy Schmidt,[35],61671
+217,Mike & Molly,[35],32709
+218,The King: Eternal Monarch,"[10765, 18]",93846
+219,The Terror,"[9648, 18, 10765]",75191
+220,Killing Eve,"[80, 18]",72750
+221,The Order,"[18, 9648, 10765]",82104
+222,Continuum,"[10759, 18, 10765]",43020
+223,Dash & Lily,"[35, 18]",111625
+224,Truth Seekers,[35],92209
+225,Perry Mason,"[18, 9648, 80]",85853
+226,Good Omens,"[10765, 35, 18]",71915
+227,The Dragon Prince,"[10759, 10765, 16, 10751]",81046
+228,Tour of Duty,"[10768, 18, 10759]",11095
+229,Big Little Lies,[18],66292
+230,The Ranch,"[35, 10751]",65493
+231,Just Shoot Me!,[35],4576
+232,Beelzebub,"[16, 35, 18]",38603
+233,Hell's Kitchen,[10764],2370
+234,Castle Rock,"[9648, 18]",71116
+235,Baby Daddy,[35],42272
+236,Space: Above and Beyond,"[10759, 18, 10765]",3534
+237,Alexa & Katie,[35],76874
+238,The Society,"[18, 10765]",84647
+239,Knightfall,"[10759, 18]",73117
+240,The Outsider,"[9648, 18, 80]",84661
+241,The Ren & Stimpy Show,"[16, 10765, 35]",504
+242,NYPD Blue,[18],194
+243,The Kelly Clarkson Show,[10767],82873
